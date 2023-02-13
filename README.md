@@ -1,1 +1,1 @@
-# odin-recipes
+The project entails building a basic recipe website. It must consist of the main idex page which will in turn have links to a couple of recipes. The objective of the project is to build up on my HTML knowledge
